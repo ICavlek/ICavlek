@@ -1,4 +1,4 @@
-# Hi! I'm Ivan Čavlek
+# Hi! I'm Ivan
 
 Software developer with experience in C++, Python, Rust, Solidity and JavaScript.
 My primarily interests are finance, business and crypto. Durign my professional career,
